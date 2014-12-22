@@ -36,11 +36,16 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Preparation to deathe A booke as deuout as eloquent, compiled by Erasmus Roterodame.De praeparatione
+
+1. THE PREFACE. DESIDERIVS ERASMVS OF ROTERODAME, to the ryght noble lorde Thomas, Erle of wylteshyre, and of Drmanie, sendeth gretynge.
+
 #####Body#####
-Preparation to deathe A booke as deuout as eloquent, compiled by Erasmus Roterodame.De praeparatione
+
+1. A BOKE OF ERASMVS OF Aotcrodame, how euery man ought for to prepare hym selfe, to dye.
+
 #####Back#####
-Preparation to deathe A booke as deuout as eloquent, compiled by Erasmus Roterodame.De praeparatione
+
+LONDINI IN AEDIBVS THOMAB. BERTHELETI REGII IMPRESSORIS. EXCVS.ANNO. M. D. XXXVIII.CVM PRIVILEGIO.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
